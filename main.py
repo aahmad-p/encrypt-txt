@@ -60,7 +60,7 @@ if __name__ == '__main__':
     '''
 
     # input file and output files
-    direc = 'C:/Users/nyiri/Desktop/'
+    direc = 'modify'
 
     inFile = direc + sys.argv[1]
     task = int( sys.argv[2] )
